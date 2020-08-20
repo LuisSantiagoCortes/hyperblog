@@ -2,12 +2,6 @@ body
 {
     color: #333;
     text-align: center;
-<<<<<<< HEAD
-    font-family: "Courier";
-    font-size: 16px;
-    margin: 0;
-    padding: 0;
-=======
     font-family: Arial;
     font-size: 16px;
     margin: 0;
@@ -29,7 +23,6 @@ body
     padding: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8em;
->>>>>>> cabecera
 }
 
 #container
